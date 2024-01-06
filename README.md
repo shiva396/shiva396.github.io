@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva396&label=Profile%20views&color=0e75b6&style=flat" alt="shiva396" /> </p>
 
-- 🔭 I’m currently working on **File Upload System Module**
+- 🔭 I’m currently working on **Flutter Applications**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **App developments**
 
