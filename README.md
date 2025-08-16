@@ -3,20 +3,13 @@
 <!-- Visitor Count (keep this simple and at the top or bottom) -->
 [![](https://visitcount.itsvg.in/api?id=shiva396&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm a passionate software developer with a knack for building efficient and scalable applications. I enjoy tackling complex problems and continuously learning new technologies.
+I'm a passionate software developer with a knack for building efficient and scalable applications. I enjoy tackling complex problems and continuously learning new technologies. [solving problems with grit]
 
 ---
 
-## 🚀 About Me
-
-*   🔭 I’m currently working on ... (Add your current project/focus)
-*   🌱 I’m currently learning ... (Add new technologies/skills)
-*   👯 I’m looking to collaborate on ... (Specify types of projects)
-*   🤔 I’m looking for help with ... (If applicable)
-*   💬 Ask me about ... (Topics you're comfortable discussing)
 *   📫 How to reach me: [LinkedIn](https://linkedin.com/in/shivaprasathr396) / [Medium](https://medium.com/@suryashiva396)
-*   😄 Pronouns: ... (He/Him, She/Her, They/Them, etc.)
-*   ⚡ Fun fact: ... (Add a fun, interesting fact about yourself)
+*   😄 Pronouns: He/Him
+*   ⚡ Fun fact: I work at 5AM in my dream.
 
 ---
 
@@ -46,35 +39,6 @@ Here are some of the technologies and tools I work with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivaprasathr396)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suryashiva396)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shiva_piclife)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/0-shiva) <!-- Needs verification -->
-
----
-
-## 🏆 My Projects
-
-*(Here you can showcase some of your key projects. Include a brief description and a link to the repository or live demo if available.)*
-
-*   **Project 1 Name:** Brief description. [Link to Repo/Demo]
-*   **Project 2 Name:** Brief description. [Link to Repo/Demo]
-*   ...
-
----
-
-## ✨ My Contributions
-
-*(Highlight any significant open-source contributions or collaborations.)*
-
-*   **Contribution 1:** Description of contribution. [Link to PR/Issue]
-*   ...
-
----
-
-## 🌱 My Goals for this Year
-
-*(Share some of your professional or learning goals.)*
-
-*   Goal 1
-*   Goal 2
-*   ...
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/0-shiva) 
 
 ---
